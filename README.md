@@ -1,4 +1,4 @@
-# CHATGPT-JA-LBREAK-PROMPT
+# CHATGPT-JAILBREAK-PROMPT
 
 A prompt for jailbreaking ChatGPT 4o. Tried last at the 4th of September 2024
 
